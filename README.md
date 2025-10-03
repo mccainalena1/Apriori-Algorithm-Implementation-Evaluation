@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
 
 ## 📖 Project Overview  
-Implementation of the Apriori association rule mining algorithm, with alternative approaches (naive, hash-tree). Includes datasets, performance evaluations, and project documentation.  
+Implementation and evaluation of the Apriori algorithm for association rule mining. Includes baseline and optimized variants (hash-tree, naive), datasets, results, and performance analysis.  
 
 ## 📂 Repository Structure  
 ```
